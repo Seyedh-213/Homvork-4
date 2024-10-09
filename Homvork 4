@@ -5,7 +5,6 @@ using namespace std;
 int main ( homvork 4)
 
 floot g1,g2,g3,g4;
-cout <<"g1,g2,g3,g4;
 cin >>g1>>g2>>g3>>g4;
 
 cout<<(g1×g2×g3×g4);
